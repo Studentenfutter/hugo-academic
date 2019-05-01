@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556720692244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2089409657",
+    "id" : "91F2B870",
+    "lastKnownWriteTime" : 1556720802,
+    "last_content_update" : 1556720802670,
+    "path" : "C:/Users/Florian/Nextcloud/Sonstiges/Academic/config/_default/menus.toml",
+    "project_path" : "config/_default/menus.toml",
+    "properties" : {
+        "cursorPosition" : "18,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

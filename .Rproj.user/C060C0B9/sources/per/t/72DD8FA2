@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556729209361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1882980016",
+    "id" : "72DD8FA2",
+    "lastKnownWriteTime" : 1556717493,
+    "last_content_update" : 1556717493,
+    "path" : "C:/Users/Florian/Nextcloud/Sonstiges/Academic/themes/hugo-academic/data/themes/ocean.toml",
+    "project_path" : "themes/hugo-academic/data/themes/ocean.toml",
+    "properties" : {
+        "cursorPosition" : "8,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
