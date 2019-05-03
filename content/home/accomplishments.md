@@ -41,10 +41,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Introduction to the Tidyverse"
+  title = "Network Analysis in R"
   url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/3d661cc51880bc158e6a45f363f4dc8de2615d94"
-  date_start = "2019-04-28"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/9d6f621e55d8109f6d7346a789612622b96ae7db"
+  date_start = "2019-05-03"
   date_end = ""
   description = ""
 
