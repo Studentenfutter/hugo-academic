@@ -8,7 +8,4 @@ weight = 80  # Order that this section will appear.
 title = "Photography"
 subtitle = ""
 +++
-
-In my free time, I like taking pictures and I'm particulary interested in landscape photography. Here are some of my recent shots.
-
-{{< gallery >}}
+ 

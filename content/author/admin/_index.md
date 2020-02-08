@@ -7,7 +7,7 @@ education:
   courses:
   - course: M.A. in Political Management, Public Policy and Public Administration
     institution: NRW School of Governance, Germany
-    year: Graduating 2019
+    year: Graduating 2020
   - course: ERASMUS term abroad
     institution: Pázmány Péter Catholic University, Hungary
     year: 2014
@@ -29,7 +29,7 @@ role: Scientific Assistant
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:florian.gilberg@uni-due.de'
+  link: 'mailto:florian.gilberg@posteo.de'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Studentenfutter
@@ -45,4 +45,4 @@ user_groups:
 I am an ambitious student of political science about to graduate with a Master's degree. During my studies, I
 have acquired a versatile skill set in text mining and data visualization with R. I love to explore and visualize data and try out new things.
 
-Over the last year I gained extensive knowledge in the ﬁeld of corpus linguistics during my work as a scientiﬁc assistant for Prof. Andreas Blätte. I am looking to broaden my knowledge in the ﬁeld of Computational Social Sciences in view of a possible Ph.D.
+Over the last year I gained extensive knowledge in the ﬁeld of corpus linguistics during my work as a scientiﬁc assistant for Prof. Andreas Blätte. I am looking to broaden my knowledge in the field of Computational Social Sciences and Data Science in general.
