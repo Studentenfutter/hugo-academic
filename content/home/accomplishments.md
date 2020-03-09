@@ -48,4 +48,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  title = "Participant Summer Institute in Computational Social Science 2019"
+  organization = "University Princeton, Partneruniversity Bamberg"
+  organization_url = "https://compsocialscience.github.io/summer-institute/2019/bamberg/"
+  location = "Bamberg, Germany"
+  date_start = "2019-07-28"
+  date_end = "2019-08-10"
+  description = """Participant at the SICSS of Princeton University at the Partner
+University of Bamberg. Two-week program consisiting of data
+science related lectures and group projects with R in the ﬁeld of
+computational social science"""
 +++
